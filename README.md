@@ -21,32 +21,25 @@
 
    ```bash
    git clone https://github.com/TurboSosiska304/file-sharing-app.git
+   pip install -r requirements.txt
    cd file-sharing-app
 Create and activate a virtual environment:
 
 bash
-Копировать
-Редактировать
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies:
 
 bash
-Копировать
-Редактировать
 pip install -r requirements.txt
 Run the app:
 
 bash
-Копировать
-Редактировать
 python src/app.py
 Open in your browser: http://localhost:5000
 
 📁 Project Structure
 cpp
-Копировать
-Редактировать
 file-sharing-app/
 ├─ src/
 │  ├── app.py
