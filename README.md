@@ -54,3 +54,7 @@ file-sharing-app/
 │   └── static/
 ├── requirements.txt
 └── README.md
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
