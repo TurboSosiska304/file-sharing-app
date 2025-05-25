@@ -25,21 +25,22 @@
    cd file-sharing-app
 Create and activate a virtual environment:
 
-bash
+ ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies:
 
-bash
+ ```bash
 pip install -r requirements.txt
 Run the app:
 
-bash
+ ```bash
 python src/app.py
 Open in your browser: http://localhost:5000
 
 📁 Project Structure
-cpp
+
+ ```cpp
 file-sharing-app/
 ├─ src/
 │  ├── app.py
