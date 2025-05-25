@@ -48,12 +48,12 @@ cpp
 Копировать
 Редактировать
 file-sharing-app/
-├── src/
-│   ├── app.py
-│   ├── templates/
-│   └── static/
-├── requirements.txt
-└── README.md
+├─ src/
+│  ├── app.py
+│  ├── templates/
+│  └── static/
+├─ requirements.txt
+└─ README.md
 
 ## 📄 License
 
